@@ -128,12 +128,6 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows PEP 8 standards and includes relevant documentation.
 
-## 📬 Contact
-
-For questions, suggestions, or collaboration opportunities, reach out via:
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
